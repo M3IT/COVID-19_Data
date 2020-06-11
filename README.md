@@ -1,9 +1,9 @@
 # COVID-19_Data
 COVID-19 Data for Australia
 
-Data aggregated from https://www.covid19data.com.au
+Data aggregated from www.covid19data.com.au
 
-Collected by Juliette O'Brien (@juliette_io) with collaborators listed here: www.covid19data.com.au/about. Transmission source time series collected by David Barry (@pappubahry): https://github.com/pappubahry/AU_COVID19. 
+Collected by Juliette O'Brien [@juliette_io](https://twitter.com/juliette_io "Juliet's Twitter") with collaborators listed here: [www.covid19data.com.au/about](https://www.covid19data.com.au/about). Transmission source time series collected by David Barry ([@pappubahry](https://twitter.com/pappubahry "David's Twitter")): https://github.com/pappubahry/AU_COVID19. 
 
 Data sourced from Australian governments at federal, state and territory levels. See https://www.covid19data.com.au/data-notes for details and notes.
 
