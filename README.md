@@ -19,6 +19,8 @@ The 3 files within each set are:
 * Cumulative counts
 * Both daily change and cumulative counts
 
+There is a 7th file (COVID_AU_cumulative.csv) which contains both national and state level data and is primarily for updating https://covid19datahub.io/
+
 ### Data sources
 
 Data aggregated from www.covid19data.com.au
