@@ -1,4 +1,4 @@
-"date","confirmed","deaths","tests","positives","recovered","hosp","icu","vent","population","administrative_area_level","administrative_area_level_1","administrative_area_level_2","administrative_area_level_3","id"
+"COVID_Data_Hub.date","COVID_Data_Hub.confirmed","COVID_Data_Hub.deaths","COVID_Data_Hub.tests","COVID_Data_Hub.positives","COVID_Data_Hub.recovered","COVID_Data_Hub.hosp","COVID_Data_Hub.icu","COVID_Data_Hub.vent","COVID_Data_Hub.population","COVID_Data_Hub.administrative_area_level","COVID_Data_Hub.administrative_area_level_1","COVID_Data_Hub.administrative_area_level_2","COVID_Data_Hub.administrative_area_level_3","COVID_Data_Hub.id"
 2020-01-25,4,0,0,0,0,0,0,0,25459470,1,"Australia",NA,NA,"99999999"
 2020-01-26,4,0,0,0,0,0,0,0,25459470,1,"Australia",NA,NA,"99999999"
 2020-01-27,5,0,0,0,0,0,0,0,25459470,1,"Australia",NA,NA,"99999999"

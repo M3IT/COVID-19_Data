@@ -1,4 +1,4 @@
-"date","state","state_abbrev","confirmed","deaths","tests","positives","recovered","hosp","icu","vent"
+"COVID_AU_state_cumulative.date","COVID_AU_state_cumulative.state","COVID_AU_state_cumulative.state_abbrev","COVID_AU_state_cumulative.confirmed","COVID_AU_state_cumulative.deaths","COVID_AU_state_cumulative.tests","COVID_AU_state_cumulative.positives","COVID_AU_state_cumulative.recovered","COVID_AU_state_cumulative.hosp","COVID_AU_state_cumulative.icu","COVID_AU_state_cumulative.vent"
 2020-01-25,"Australian Capital Territory","ACT",0,0,0,0,0,0,0,0
 2020-01-25,"New South Wales","NSW",3,0,0,0,0,0,0,0
 2020-01-25,"Northern Territory","NT",0,0,0,0,0,0,0,0
@@ -1399,3 +1399,11 @@
 2020-07-17,"Tasmania","TAS",228,13,60095,228,215,0,0,0
 2020-07-17,"Victoria","VIC",5165,32,1250408,5165,2669,122,31,22
 2020-07-17,"Western Australia","WA",648,9,219758,648,613,1,0,0
+2020-07-18,"Australian Capital Territory","ACT",113,3,41273,113,105,0,0,0
+2020-07-18,"New South Wales","NSW",3550,49,1155168,3550,2799,3,1,0
+2020-07-18,"Northern Territory","NT",31,0,19655,31,29,1,0,0
+2020-07-18,"Queensland","QLD",1071,6,454831,1071,1059,1,0,0
+2020-07-18,"South Australia","SA",444,4,184086,444,440,0,0,0
+2020-07-18,"Tasmania","TAS",228,13,60548,228,215,0,0,0
+2020-07-18,"Victoria","VIC",5353,35,1278512,5353,2709,110,25,18
+2020-07-18,"Western Australia","WA",651,9,219758,651,617,0,0,0

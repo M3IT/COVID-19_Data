@@ -1,4 +1,4 @@
-"date","confirmed","deaths","tests","positives","recovered","hosp","icu","vent"
+"COVID_AU_national_cumulative.date","COVID_AU_national_cumulative.confirmed","COVID_AU_national_cumulative.deaths","COVID_AU_national_cumulative.tests","COVID_AU_national_cumulative.positives","COVID_AU_national_cumulative.recovered","COVID_AU_national_cumulative.hosp","COVID_AU_national_cumulative.icu","COVID_AU_national_cumulative.vent"
 2020-01-25,4,0,0,0,0,0,0,0
 2020-01-26,4,0,0,0,0,0,0,0
 2020-01-27,5,0,0,0,0,0,0,0
@@ -174,3 +174,4 @@
 2020-07-15,10495,111,3222141,10495,7739,111,28,0
 2020-07-16,10810,113,3287716,10810,7847,114,30,0
 2020-07-17,11235,116,3350464,11235,7928,127,32,22
+2020-07-18,11441,119,3413831,11441,7973,115,26,18

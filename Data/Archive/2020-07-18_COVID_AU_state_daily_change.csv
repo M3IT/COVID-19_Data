@@ -1,4 +1,4 @@
-"date","state","state_abbrev","confirmed","deaths","tests","positives","recovered","hosp","icu","vent"
+"COVID_AU_state_daily_change.date","COVID_AU_state_daily_change.state","COVID_AU_state_daily_change.state_abbrev","COVID_AU_state_daily_change.confirmed","COVID_AU_state_daily_change.deaths","COVID_AU_state_daily_change.tests","COVID_AU_state_daily_change.positives","COVID_AU_state_daily_change.recovered","COVID_AU_state_daily_change.hosp","COVID_AU_state_daily_change.icu","COVID_AU_state_daily_change.vent"
 2020-01-25,"Australian Capital Territory","ACT",0,0,0,0,0,0,0,0
 2020-01-25,"New South Wales","NSW",3,0,0,0,0,0,0,0
 2020-01-25,"Northern Territory","NT",0,0,0,0,0,0,0,0
@@ -1399,11 +1399,11 @@
 2020-07-17,"Tasmania","TAS",0,0,739,0,0,0,0,0
 2020-07-17,"Victoria","VIC",415,3,24409,415,78,13,2,22
 2020-07-17,"Western Australia","WA",2,0,2470,2,3,0,0,0
-2020-07-18,"Australian Capital Territory","ACT",0,0,0,0,0,0,0,0
-2020-07-18,"New South Wales","NSW",15,0,0,0,0,0,0,0
-2020-07-18,"Northern Territory","NT",0,0,0,0,0,0,0,0
-2020-07-18,"Queensland","QLD",0,0,0,0,1,0,0,0
+2020-07-18,"Australian Capital Territory","ACT",0,0,740,0,0,0,0,0
+2020-07-18,"New South Wales","NSW",15,0,27702,15,0,1,0,0
+2020-07-18,"Northern Territory","NT",0,0,296,0,0,0,0,0
+2020-07-18,"Queensland","QLD",0,0,6072,0,1,0,0,0
 2020-07-18,"South Australia","SA",0,0,0,0,0,0,0,0
-2020-07-18,"Tasmania","TAS",0,0,0,0,0,0,0,0
-2020-07-18,"Victoria","VIC",188,2,0,0,40,-12,-6,-4
-2020-07-18,"Western Australia","WA",3,0,0,0,4,0,0,0
+2020-07-18,"Tasmania","TAS",0,0,453,0,0,0,0,0
+2020-07-18,"Victoria","VIC",188,3,28104,188,40,-12,-6,-4
+2020-07-18,"Western Australia","WA",3,0,0,3,4,-1,0,0

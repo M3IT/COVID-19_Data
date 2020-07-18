@@ -1,4 +1,4 @@
-"date","confirmed","confirmed_cum","deaths","deaths_cum","tests","tests_cum","positives","positives_cum","recovered","recovered_cum","hosp","hosp_cum","icu","icu_cum","vent","vent_cum"
+"COVID_AU_national.date","COVID_AU_national.confirmed","COVID_AU_national.confirmed_cum","COVID_AU_national.deaths","COVID_AU_national.deaths_cum","COVID_AU_national.tests","COVID_AU_national.tests_cum","COVID_AU_national.positives","COVID_AU_national.positives_cum","COVID_AU_national.recovered","COVID_AU_national.recovered_cum","COVID_AU_national.hosp","COVID_AU_national.hosp_cum","COVID_AU_national.icu","COVID_AU_national.icu_cum","COVID_AU_national.vent","COVID_AU_national.vent_cum"
 2020-01-25,4,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2020-01-26,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 2020-01-27,1,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -174,3 +174,4 @@
 2020-07-15,244,10495,1,111,59904,3222141,244,10495,93,7739,21,111,1,28,0,0
 2020-07-16,315,10810,2,113,65575,3287716,315,10810,108,7847,3,114,2,30,0,0
 2020-07-17,425,11235,3,116,62748,3350464,425,11235,81,7928,13,127,2,32,22,22
+2020-07-18,206,11441,3,119,63367,3413831,206,11441,45,7973,-12,115,-6,26,-4,18
