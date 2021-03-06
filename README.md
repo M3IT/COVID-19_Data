@@ -21,7 +21,7 @@ The data is provided in 2 sets of 3 files. Set 1 is data at State level and set 
 
 There is a 7th file (COVID_AU_cumulative.csv) which contains both national and state level data and is primarily for updating <https://covid19datahub.io/>
 
-[![Contributor](Images/COVID-19%20Data%20Hub%20-%20CONTRIBUTOR%20COVID-19%20Data%20Hub%20-%202020-06-17.svg "COVID-19 Data Hub - CONTRIBUTOR"){width="160"}](https://covid19datahub.io/)
+[![Contributor](Images/COVID-19%20Data%20Hub%20-%20CONTRIBUTOR%20COVID-19%20Data%20Hub%20-%202020-06-17.svg "COVID-19 Data Hub - CONTRIBUTOR"){width="220px"}](https://covid19datahub.io/)
 
 ### Data sources
 
