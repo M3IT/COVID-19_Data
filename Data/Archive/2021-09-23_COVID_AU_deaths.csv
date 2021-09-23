@@ -1189,3 +1189,9 @@ date,state,age,age_bracket,gender,state_cumulative
 2021-09-22,VIC,,50-59,Female,838
 2021-09-22,VIC,,70-79,Male,839
 2021-09-22,VIC,,80-89,Male,840
+2021-09-23,NSW,,,Male,315
+2021-09-23,NSW,,,Male,316
+2021-09-23,NSW,,,Female,317
+2021-09-23,NSW,,,Female,318
+2021-09-23,NSW,,50-59,Female,319
+2021-09-23,NSW,,90-99,Female,320
