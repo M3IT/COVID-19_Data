@@ -7903,7 +7903,7 @@
 2022-10-08,"Tasmania","TAS",0,0,0,0,0,0,0,0,0
 2022-10-08,"Victoria","VIC",0,0,5257,0,0,0,0,0,0
 2022-10-08,"Western Australia","WA",0,0,0,0,0,0,0,0,0
-2022-10-09,"Australian Capital Territory","ACT",0,0,-1322847,0,0,0,0,0,0
+2022-10-09,"Australian Capital Territory","ACT",0,0,0,0,0,0,0,0,0
 2022-10-09,"New South Wales","NSW",0,0,0,0,0,0,0,0,0
 2022-10-09,"Northern Territory","NT",0,0,0,0,0,0,0,0,0
 2022-10-09,"Queensland","QLD",0,0,0,0,0,0,0,0,0
@@ -8047,7 +8047,7 @@
 2022-10-26,"Tasmania","TAS",0,0,0,0,0,0,0,0,0
 2022-10-26,"Victoria","VIC",0,0,5257,0,0,0,0,0,0
 2022-10-26,"Western Australia","WA",0,0,0,0,0,0,0,0,0
-2022-10-27,"Australian Capital Territory","ACT",0,0,0,0,0,0,0,0,0
+2022-10-27,"Australian Capital Territory","ACT",0,0,-1322847,0,0,0,0,0,0
 2022-10-27,"New South Wales","NSW",0,0,0,0,0,0,0,0,0
 2022-10-27,"Northern Territory","NT",0,0,0,0,0,0,0,0,0
 2022-10-27,"Queensland","QLD",0,0,0,0,0,0,0,0,0
@@ -8063,3 +8063,59 @@
 2022-10-28,"Tasmania","TAS",898,1,0,898,0,6,1,0,0
 2022-10-28,"Victoria","VIC",8500,51,5257,8500,0,29,-3,-3,0
 2022-10-28,"Western Australia","WA",5810,19,8756,5810,0,-57,1,1,0
+2022-10-29,"Australian Capital Territory","ACT",0,0,0,0,0,0,0,0,0
+2022-10-29,"New South Wales","NSW",0,0,-15052,0,0,0,0,0,0
+2022-10-29,"Northern Territory","NT",0,0,0,0,0,0,0,0,0
+2022-10-29,"Queensland","QLD",0,0,0,0,0,0,0,0,0
+2022-10-29,"South Australia","SA",0,0,15973,0,0,0,0,0,0
+2022-10-29,"Tasmania","TAS",0,0,0,0,0,0,0,0,0
+2022-10-29,"Victoria","VIC",0,0,5257,0,0,0,0,0,0
+2022-10-29,"Western Australia","WA",0,0,0,0,0,0,0,0,0
+2022-10-30,"Australian Capital Territory","ACT",0,0,0,0,0,0,0,0,0
+2022-10-30,"New South Wales","NSW",0,0,-15052,0,0,0,0,0,0
+2022-10-30,"Northern Territory","NT",0,0,0,0,0,0,0,0,0
+2022-10-30,"Queensland","QLD",0,0,0,0,0,0,0,0,0
+2022-10-30,"South Australia","SA",0,0,15973,0,0,0,0,0,0
+2022-10-30,"Tasmania","TAS",0,0,0,0,0,0,0,0,0
+2022-10-30,"Victoria","VIC",0,0,5257,0,0,0,0,0,0
+2022-10-30,"Western Australia","WA",0,0,0,0,0,0,0,0,0
+2022-10-31,"Australian Capital Territory","ACT",0,0,0,0,0,0,0,0,0
+2022-10-31,"New South Wales","NSW",0,0,-15052,0,0,0,0,0,0
+2022-10-31,"Northern Territory","NT",0,0,0,0,0,0,0,0,0
+2022-10-31,"Queensland","QLD",0,0,0,0,0,0,0,0,0
+2022-10-31,"South Australia","SA",0,0,15973,0,0,0,0,0,0
+2022-10-31,"Tasmania","TAS",0,0,0,0,0,0,0,0,0
+2022-10-31,"Victoria","VIC",0,0,5257,0,0,0,0,0,0
+2022-10-31,"Western Australia","WA",0,0,0,0,0,0,0,0,0
+2022-11-01,"Australian Capital Territory","ACT",0,0,0,0,0,0,0,0,0
+2022-11-01,"New South Wales","NSW",0,0,-15052,0,0,0,0,0,0
+2022-11-01,"Northern Territory","NT",0,0,0,0,0,0,0,0,0
+2022-11-01,"Queensland","QLD",0,0,0,0,0,0,0,0,0
+2022-11-01,"South Australia","SA",0,0,15973,0,0,0,0,0,0
+2022-11-01,"Tasmania","TAS",0,0,0,0,0,0,0,0,0
+2022-11-01,"Victoria","VIC",0,0,5257,0,0,0,0,0,0
+2022-11-01,"Western Australia","WA",0,0,0,0,0,0,0,0,0
+2022-11-02,"Australian Capital Territory","ACT",0,0,0,0,0,0,0,0,0
+2022-11-02,"New South Wales","NSW",0,0,-15052,0,0,0,0,0,0
+2022-11-02,"Northern Territory","NT",0,0,0,0,0,0,0,0,0
+2022-11-02,"Queensland","QLD",0,0,0,0,0,0,0,0,0
+2022-11-02,"South Australia","SA",0,0,15973,0,0,0,0,0,0
+2022-11-02,"Tasmania","TAS",0,0,0,0,0,0,0,0,0
+2022-11-02,"Victoria","VIC",0,0,5257,0,0,0,0,0,0
+2022-11-02,"Western Australia","WA",0,0,0,0,0,0,0,0,0
+2022-11-03,"Australian Capital Territory","ACT",0,0,0,0,0,0,0,0,0
+2022-11-03,"New South Wales","NSW",0,0,-15052,0,0,0,0,0,0
+2022-11-03,"Northern Territory","NT",0,0,0,0,0,0,0,0,0
+2022-11-03,"Queensland","QLD",0,0,0,0,0,0,0,0,0
+2022-11-03,"South Australia","SA",0,0,15973,0,0,0,0,0,0
+2022-11-03,"Tasmania","TAS",0,0,0,0,0,0,0,0,0
+2022-11-03,"Victoria","VIC",0,0,5257,0,0,0,0,0,0
+2022-11-03,"Western Australia","WA",0,0,0,0,0,0,0,0,0
+2022-11-04,"Australian Capital Territory","ACT",919,1,0,919,0,-6,0,0,0
+2022-11-04,"New South Wales","NSW",12440,24,-15052,12440,0,-11,-8,-2,0
+2022-11-04,"Northern Territory","NT",265,2,0,265,0,7,0,0,0
+2022-11-04,"Queensland","QLD",4067,14,0,4067,0,0,1,0,0
+2022-11-04,"South Australia","SA",3018,29,15973,3018,0,9,1,1,0
+2022-11-04,"Tasmania","TAS",1320,5,0,1320,0,-3,0,0,0
+2022-11-04,"Victoria","VIC",10153,24,5257,10153,0,59,1,0,0
+2022-11-04,"Western Australia","WA",6855,17,8674,6855,0,2,-5,0,0
