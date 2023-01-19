@@ -8518,7 +8518,7 @@
 2022-12-24,"South Australia","SA",0,0,15973,0,NA,0,0,0,0
 2022-12-24,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
 2022-12-24,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
-2022-12-24,"Western Australia","WA",0,0,NA,0,NA,0,0,0,0
+2022-12-24,"Western Australia","WA",0,0,0,0,NA,0,0,0,0
 2022-12-25,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
 2022-12-25,"New South Wales","NSW",0,0,-15052,0,NA,0,0,0,0
 2022-12-25,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
@@ -8526,7 +8526,7 @@
 2022-12-25,"South Australia","SA",0,0,15973,0,NA,0,0,0,0
 2022-12-25,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
 2022-12-25,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
-2022-12-25,"Western Australia","WA",0,0,NA,0,NA,0,0,0,0
+2022-12-25,"Western Australia","WA",0,0,0,0,NA,0,0,0,0
 2022-12-26,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
 2022-12-26,"New South Wales","NSW",0,0,-15052,0,NA,0,0,0,0
 2022-12-26,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
@@ -8534,7 +8534,7 @@
 2022-12-26,"South Australia","SA",0,0,15973,0,NA,0,0,0,0
 2022-12-26,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
 2022-12-26,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
-2022-12-26,"Western Australia","WA",0,0,NA,0,NA,0,0,0,0
+2022-12-26,"Western Australia","WA",0,0,0,0,NA,0,0,0,0
 2022-12-27,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
 2022-12-27,"New South Wales","NSW",0,0,-15052,0,NA,0,0,0,0
 2022-12-27,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
@@ -8542,7 +8542,7 @@
 2022-12-27,"South Australia","SA",0,0,15973,0,NA,0,0,0,0
 2022-12-27,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
 2022-12-27,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
-2022-12-27,"Western Australia","WA",0,0,NA,0,NA,0,0,0,0
+2022-12-27,"Western Australia","WA",0,0,0,0,NA,0,0,0,0
 2022-12-28,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
 2022-12-28,"New South Wales","NSW",0,0,-15052,0,NA,0,0,0,0
 2022-12-28,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
@@ -8550,7 +8550,7 @@
 2022-12-28,"South Australia","SA",0,0,15973,0,NA,0,0,0,0
 2022-12-28,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
 2022-12-28,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
-2022-12-28,"Western Australia","WA",0,0,NA,0,NA,0,0,0,0
+2022-12-28,"Western Australia","WA",0,0,0,0,NA,0,0,0,0
 2022-12-29,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
 2022-12-29,"New South Wales","NSW",0,0,-15052,0,NA,0,0,0,0
 2022-12-29,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
@@ -8558,12 +8558,124 @@
 2022-12-29,"South Australia","SA",0,0,15973,0,NA,0,0,0,0
 2022-12-29,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
 2022-12-29,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
-2022-12-29,"Western Australia","WA",0,0,NA,0,NA,0,0,0,0
-2022-12-30,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
+2022-12-29,"Western Australia","WA",0,0,0,0,NA,0,0,0,0
+2022-12-30,"Australian Capital Territory","ACT",2084,0,NA,2084,NA,0,0,0,0
 2022-12-30,"New South Wales","NSW",27653,32,-15052,27653,NA,0,0,0,0
 2022-12-30,"Northern Territory","NT",215,0,NA,215,NA,0,0,0,0
-2022-12-30,"Queensland","QLD",0,0,NA,0,NA,0,0,0,0
+2022-12-30,"Queensland","QLD",8905,0,NA,8905,NA,0,0,0,0
 2022-12-30,"South Australia","SA",8676,18,15973,8676,NA,0,0,0,0
 2022-12-30,"Tasmania","TAS",3194,2,NA,3194,NA,0,0,0,0
 2022-12-30,"Victoria","VIC",16382,69,NA,16382,NA,0,0,0,0
-2022-12-30,"Western Australia","WA",0,0,NA,0,NA,0,0,0,0
+2022-12-30,"Western Australia","WA",8391,4,5702,8391,NA,0,0,0,0
+2022-12-31,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
+2022-12-31,"New South Wales","NSW",0,0,-15052,0,NA,0,0,0,0
+2022-12-31,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
+2022-12-31,"Queensland","QLD",0,0,NA,0,NA,0,0,0,0
+2022-12-31,"South Australia","SA",0,0,15973,0,NA,0,0,0,0
+2022-12-31,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
+2022-12-31,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
+2022-12-31,"Western Australia","WA",0,0,0,0,NA,0,0,0,0
+2023-01-01,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
+2023-01-01,"New South Wales","NSW",0,0,-15052,0,NA,0,0,0,0
+2023-01-01,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
+2023-01-01,"Queensland","QLD",0,0,NA,0,NA,0,0,0,0
+2023-01-01,"South Australia","SA",0,0,15973,0,NA,0,0,0,0
+2023-01-01,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
+2023-01-01,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
+2023-01-01,"Western Australia","WA",0,0,0,0,NA,0,0,0,0
+2023-01-02,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
+2023-01-02,"New South Wales","NSW",0,0,-15052,0,NA,0,0,0,0
+2023-01-02,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
+2023-01-02,"Queensland","QLD",0,0,NA,0,NA,0,0,0,0
+2023-01-02,"South Australia","SA",0,0,15973,0,NA,0,0,0,0
+2023-01-02,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
+2023-01-02,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
+2023-01-02,"Western Australia","WA",0,0,0,0,NA,0,0,0,0
+2023-01-03,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
+2023-01-03,"New South Wales","NSW",0,0,-15052,0,NA,0,0,0,0
+2023-01-03,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
+2023-01-03,"Queensland","QLD",0,0,NA,0,NA,0,0,0,0
+2023-01-03,"South Australia","SA",0,0,15973,0,NA,0,0,0,0
+2023-01-03,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
+2023-01-03,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
+2023-01-03,"Western Australia","WA",0,0,0,0,NA,0,0,0,0
+2023-01-04,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
+2023-01-04,"New South Wales","NSW",0,0,-15052,0,NA,0,0,0,0
+2023-01-04,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
+2023-01-04,"Queensland","QLD",0,0,NA,0,NA,0,0,0,0
+2023-01-04,"South Australia","SA",0,0,15973,0,NA,0,0,0,0
+2023-01-04,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
+2023-01-04,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
+2023-01-04,"Western Australia","WA",0,0,0,0,NA,0,0,0,0
+2023-01-05,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
+2023-01-05,"New South Wales","NSW",0,0,-15052,0,NA,0,0,0,0
+2023-01-05,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
+2023-01-05,"Queensland","QLD",0,0,NA,0,NA,0,0,0,0
+2023-01-05,"South Australia","SA",0,0,15973,0,NA,0,0,0,0
+2023-01-05,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
+2023-01-05,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
+2023-01-05,"Western Australia","WA",0,0,0,0,NA,0,0,0,0
+2023-01-06,"Australian Capital Territory","ACT",1436,4,NA,1436,NA,0,0,0,0
+2023-01-06,"New South Wales","NSW",19774,77,-15052,19774,NA,0,0,0,0
+2023-01-06,"Northern Territory","NT",559,3,NA,559,NA,0,0,0,0
+2023-01-06,"Queensland","QLD",10696,44,NA,10696,NA,0,0,0,0
+2023-01-06,"South Australia","SA",4599,20,15973,4599,NA,0,0,0,0
+2023-01-06,"Tasmania","TAS",1930,5,NA,1930,NA,0,0,0,0
+2023-01-06,"Victoria","VIC",12200,108,NA,12200,NA,0,0,0,0
+2023-01-06,"Western Australia","WA",6558,29,7261,6558,NA,0,0,0,0
+2023-01-07,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
+2023-01-07,"New South Wales","NSW",0,0,NA,0,NA,0,0,0,0
+2023-01-07,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
+2023-01-07,"Queensland","QLD",0,0,NA,0,NA,0,0,0,0
+2023-01-07,"South Australia","SA",0,0,NA,0,NA,0,0,0,0
+2023-01-07,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
+2023-01-07,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
+2023-01-07,"Western Australia","WA",0,0,NA,0,NA,0,0,0,0
+2023-01-08,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
+2023-01-08,"New South Wales","NSW",0,0,NA,0,NA,0,0,0,0
+2023-01-08,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
+2023-01-08,"Queensland","QLD",0,0,NA,0,NA,0,0,0,0
+2023-01-08,"South Australia","SA",0,0,NA,0,NA,0,0,0,0
+2023-01-08,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
+2023-01-08,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
+2023-01-08,"Western Australia","WA",0,0,NA,0,NA,0,0,0,0
+2023-01-09,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
+2023-01-09,"New South Wales","NSW",0,0,NA,0,NA,0,0,0,0
+2023-01-09,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
+2023-01-09,"Queensland","QLD",0,0,NA,0,NA,0,0,0,0
+2023-01-09,"South Australia","SA",0,0,NA,0,NA,0,0,0,0
+2023-01-09,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
+2023-01-09,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
+2023-01-09,"Western Australia","WA",0,0,NA,0,NA,0,0,0,0
+2023-01-10,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
+2023-01-10,"New South Wales","NSW",0,0,NA,0,NA,0,0,0,0
+2023-01-10,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
+2023-01-10,"Queensland","QLD",0,0,NA,0,NA,0,0,0,0
+2023-01-10,"South Australia","SA",0,0,NA,0,NA,0,0,0,0
+2023-01-10,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
+2023-01-10,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
+2023-01-10,"Western Australia","WA",0,0,NA,0,NA,0,0,0,0
+2023-01-11,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
+2023-01-11,"New South Wales","NSW",0,0,NA,0,NA,0,0,0,0
+2023-01-11,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
+2023-01-11,"Queensland","QLD",0,0,NA,0,NA,0,0,0,0
+2023-01-11,"South Australia","SA",0,0,NA,0,NA,0,0,0,0
+2023-01-11,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
+2023-01-11,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
+2023-01-11,"Western Australia","WA",0,0,NA,0,NA,0,0,0,0
+2023-01-12,"Australian Capital Territory","ACT",0,0,NA,0,NA,0,0,0,0
+2023-01-12,"New South Wales","NSW",0,0,NA,0,NA,0,0,0,0
+2023-01-12,"Northern Territory","NT",0,0,NA,0,NA,0,0,0,0
+2023-01-12,"Queensland","QLD",0,0,NA,0,NA,0,0,0,0
+2023-01-12,"South Australia","SA",0,0,NA,0,NA,0,0,0,0
+2023-01-12,"Tasmania","TAS",0,0,NA,0,NA,0,0,0,0
+2023-01-12,"Victoria","VIC",0,0,NA,0,NA,0,0,0,0
+2023-01-12,"Western Australia","WA",0,0,NA,0,NA,0,0,0,0
+2023-01-13,"Australian Capital Territory","ACT",1012,6,NA,1012,NA,0,0,0,0
+2023-01-13,"New South Wales","NSW",13859,112,NA,13859,NA,0,0,0,0
+2023-01-13,"Northern Territory","NT",353,0,NA,353,NA,0,0,0,0
+2023-01-13,"Queensland","QLD",8524,77,NA,8524,NA,0,0,0,0
+2023-01-13,"South Australia","SA",3522,38,NA,3522,NA,0,0,0,0
+2023-01-13,"Tasmania","TAS",1234,8,NA,1234,NA,0,0,0,0
+2023-01-13,"Victoria","VIC",7655,149,NA,7655,NA,0,0,0,0
+2023-01-13,"Western Australia","WA",5585,23,NA,5585,NA,0,0,0,0
